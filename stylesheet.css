@@ -1,0 +1,159 @@
+*{
+margin:0; padding:0;
+}
+header{
+	
+	height:222px;
+	width: 1428px;
+	display: block;
+	background-color: #D1E0E0;
+}
+#name{
+	font-size: 88px;
+	font-family: Baskerville;
+	text-align: center;
+	padding-top:4px;
+}
+#social-media li{
+	display:inline;
+}
+#instagram{
+	height:46px;
+	width:46px;
+	padding-left: 16px;
+	padding-top:28px;
+}
+#linked{
+	display:inline;
+	height:49px;
+	width:49px;
+	padding-left: 5px;
+	padding-top:28px;
+}
+#soundcloud{
+	display:inline;
+	height:49px;
+	width:49px;
+	padding-left: 5px;
+	padding-top:28px;
+
+}
+
+#intro{
+	display:inline-block;
+	position: relative;
+	font-size:180%;
+	font-family:Avenir;
+	padding-top:12px;
+	padding-left: 248px;
+	left:197px;
+}
+
+#section-one{
+	display:block;
+	position:static;
+	width: 1428px;
+	height: 480px;
+	background-color:#DB4D4D;
+}
+
+h1{
+	font-size: 275%;
+	font-weight:450;
+	font-family: Baskerville;
+	letter-spacing: 2px;
+	padding:.7em;
+	text-align: center;
+	text-decoration: underline;
+	
+}
+.heading{
+	list-style: none;
+	font-family: Baskerville;
+	font-size: 130%;
+	padding-bottom:11px;
+	position:relative;
+	margin-left: -16px;
+	font-weight:bolder;
+}
+.antler{
+	font-family: Avenir;
+	
+	font-size: 150%;
+	list-style-type:circle;
+	padding-left: 32px;
+	padding-right:16px;
+	display:inline-block;
+}
+#bwr{
+	position: relative;
+	padding-top: 2px;
+	top:-27px;
+}
+#tilt{
+	position:relative;
+	left:602px;
+	top:-303px;
+	padding-left:400px;
+	padding-top: 2px;
+	
+}
+.listen{
+	text-decoration: none;
+	font-weight:bolder;
+	color:orange;
+	transition: color .8s ease;
+}
+.listen:hover{
+	color:#47D1D1;
+}
+.date{
+	font-size: 55%;
+}
+#bwImage{
+	height:25%;
+	width:25%;
+	list-style: none;
+	padding-top:4px;
+}
+#section-two{
+	display:block;
+	position:static;
+	width: 1428px;
+	height: 320px;
+	background-color:#33ADAD;
+}
+
+h2{
+	font-family: Baskerville;
+	padding-bottom: 2px;
+	padding-left: 16px;
+
+}
+p{
+	padding:4px;
+	padding-left: 24px;
+	font-family: Avenir;
+}
+#hobbies{
+	display:block;
+	position:static;
+	width: 1428px;
+	height: 144px;
+	background-color:#EBE0D6;
+
+}
+h3{
+	text-align:center;
+	font-family:Baskerville;
+	font-size: 125%;
+	padding:16px;
+	padding-bottom:8px;
+}
+#evergreen{
+	padding-top: 16px;
+}
+
+
+
+	
